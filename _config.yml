@@ -3,7 +3,7 @@
 # ===========================================
 
 # Site creation time
-since: 2014
+since: 2018
 
 # Custom your favicon.ico in `site/source`
 favicon: /favicon.ico
@@ -58,7 +58,7 @@ google_analytics:
 # Duoshuo
 duoshuo_shortname:
 # Disqus
-disqus_shortname:
+disqus_shortname: renn-engineer
 
 
 # ===========================================
